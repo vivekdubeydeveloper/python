@@ -1,0 +1,6 @@
+f=open("D:/vivek/personal/abc.txt","r")
+##lines=f.readlines()
+##print(lines)
+val=f.read()
+print(val)
+f.close()

@@ -4,8 +4,7 @@ print("hello "+"world")
 print("hello",5)
 print("hello"+str(5))
 print("hello",str(5))
+#this is single line comment 
 '''
-aaaaa
-aaaa
-aaaa
+This is multiline comment
 '''

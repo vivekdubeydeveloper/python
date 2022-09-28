@@ -1,1 +1,5 @@
 print("Hello python")
+print("I","am","vivek")
+print("I","am","vivek",sep="/")
+print("I","am","vivek",sep="/",end="\t")
+print("Hello")
